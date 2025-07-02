@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afnanbinislamnahin&label=Profile%20views&color=0e75b6&style=flat" alt="afnanbinislamnahin" /> </p>
 
-- 🌱 I’m currently learning **C#, .NET.**
+- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT.**
 
-- 💬 Ask me about **C++, DSA**
+- 💬 Ask me about **C#, .NET, C++, DSA.**
 
 - 📫 How to reach me **22-49350-3@student.aiub.edu**
 
