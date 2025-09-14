@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT.**
 
-- 💬 Ask me about **C#, .NET, C++, DSA.**
+- 💬 Ask me about **C#,.NET, C++,DSA,PHP.**
 
 - 📫 How to reach me **22-49350-3@student.aiub.edu**
 
