@@ -104,9 +104,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afnanbinislamnahin&show_icons=true&locale=en" alt="afnanbinislamnahin" /></p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afnanbinislamnahin" alt="afnanbinislamnahin" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afnanbinislamnahin&" alt="afnanbinislamnahin" /></p>
 
 
 
