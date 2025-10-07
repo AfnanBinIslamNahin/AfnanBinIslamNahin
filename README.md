@@ -15,7 +15,7 @@
 <h2 align="center">Contact with Me</h2>
 <p align="center">
 <a href="https://www.facebook.com/afnan.nahin.5" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=facebook"/></a>
-<a href="https://www.instagram.com/__afnan1___/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=hackerrank"/></a>
+<a href="https://www.instagram.com/__afnan1___/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram"/></a>
 <a href="https://www.linkedin.com/in/afnan-islam01/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"/></a>
 <a href="https://www.youtube.com/@afnanislam4039" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=youtube"/></a>
 <a href="" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=x"/></a>
