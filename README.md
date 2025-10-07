@@ -16,7 +16,7 @@
 - 📫 How to reach me **22-49350-3@student.aiub.edu**
 
 
-<h2 align="center">Contact with Me</h2>
+<h2 align="Left">Contact with Me</h2>
 <p align="center">
 <a href="https://www.facebook.com/afnan.nahin.5" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=facebook"/></a>
 <a href="https://www.instagram.com/__afnan1___/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram"/></a>
