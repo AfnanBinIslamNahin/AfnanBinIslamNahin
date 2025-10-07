@@ -3,7 +3,7 @@
 </h1>
 
 
-<h3 align="center">  . </h3>
+<h3 align="center">Machine Learning Enthusiast | Aspiring Data Scientist | AI Explorer</h3>
 
 <img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif ">
 
@@ -28,7 +28,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <div align="center">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,java,cs,py,matlab"/>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php"/>
