@@ -27,7 +27,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,java,cs,py,matlab"/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i="html,css,js,php"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php"/>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=oracle,mysql,sqlserver"/>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,anaconda,vscode,visualstudio,idea,codeblocks,googlecolab,git,gitbash,github,figma"/>
 </div>
