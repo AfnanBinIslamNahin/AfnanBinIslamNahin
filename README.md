@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/afnan-islam01/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"/></a>
 <a href="https://www.youtube.com/@afnanislam4039" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=youtube"/></a>
 <!--<a href="" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=x"/></a> --!>
-<a href=""><img src="https://go-skill-icons.vercel.app/api/icons?i=discord"/></a>
+<!-- <a href=""><img src="https://go-skill-icons.vercel.app/api/icons?i=discord"/></a> --!>
 </p>
 
 
