@@ -5,16 +5,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afnanbinislamnahin&label=Profile%20views&color=0e75b6&style=flat" alt="afnanbinislamnahin" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT.**
+- 🌱 I’m currently learning **Data Science & Machine Learning .**
 
-- 💬 Ask me about **C#,.NET, C++,DSA,PHP.**
+- 💬 Ask me about **C#,.NET, C++,DSA,PHP or anything.**
 
 - 📫 How to reach me **22-49350-3@student.aiub.edu**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/afnan nahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afnan nahin" height="30" width="40" /></a>
-<a href="https://instagram.com/__afnan__1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__afnan__1" height="30" width="40" /></a>
+<h2 align="center">Contact with Me</h2>
+<p align="center">
+<a href="https://www.facebook.com/afnan.nahin.5" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=facebook"/></a>
+<a href="https://www.instagram.com/__afnan1___/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=hackerrank"/></a>
+<a href="https://www.linkedin.com/in/afnan-islam01/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"/></a>
+<a href="https://www.youtube.com/@afnanislam4039" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=youtube"/></a>
+<a href="" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=x"/></a>
+<a href=""><img src="https://go-skill-icons.vercel.app/api/icons?i=discord"/></a>
 </p>
 
 
