@@ -26,7 +26,10 @@
   <img src="https://komarev.com/ghpvc/?username=afnanbinislamnahin&label=Profile%20views&color=8B0000&style=flat" alt="Profile views" />
 </p>
 
-<img align="right" alt="Coding animation" width="360" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+<img align="right"
+     alt="AI Developer Coding"
+     width="360"
+     src="./coding.gif" />
 
 ### 👨‍💻 About Me
 
