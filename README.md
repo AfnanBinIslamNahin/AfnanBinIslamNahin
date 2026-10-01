@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  AI & Machine Learning Enthusiast | Full-Stack Developer | Aspiring AI Engineer
+  AI & Machine Learning Enthusiast | Full-Stack Developer |  AI Engineer
 </h3>
 
 <p align="center">
