@@ -29,7 +29,7 @@
 <img align="right"
      alt="AI Developer Coding"
      width="360"
-     src="./coding.gif" />
+     src="./coding-transparent.gif" />
 
 ### 👨‍💻 About Me
 
